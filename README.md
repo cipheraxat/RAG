@@ -242,7 +242,7 @@ GOOGLE_API_KEY=your_google_gemini_api_key_here
 
 EMBEDDING_MODEL=sentence-transformers/all-MiniLM-L6-v2
 # Optional override. Default: gemini-pro
-LLM_MODEL=
+LLM_MODEL=gemini-2.5-pro
 CHROMA_DB_PATH=./chroma_db
 ```
 
