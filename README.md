@@ -1,4 +1,4 @@
-# RAG Chatbot with Source Attribution
+<img width="968" height="596" alt="image" src="https://github.com/user-attachments/assets/d7a9a962-b914-4c13-956e-231d8c13c5c2" /># RAG Chatbot with Source Attribution
 
 A modern, web-based Retrieval-Augmented Generation (RAG) chatbot that provides answers with source attribution. Built with Next.js frontend and FastAPI backend, this application allows users to upload documents and ask questions with transparent source references.
 
@@ -10,6 +10,19 @@ A modern, web-based Retrieval-Augmented Generation (RAG) chatbot that provides a
 - 💬 **Modern Chat Interface**: Clean, responsive UI with real-time interactions
 - 📊 **Statistics Dashboard**: Track indexed documents and collection stats
 - 🎨 **Responsive Design**: Works seamlessly on desktop, tablet, and mobile devices
+
+## View 
+
+- RAG stats view
+<img width="653" height="611" alt="RAG stats" src="https://github.com/user-attachments/assets/5b2ba027-4bcd-4b7c-8792-a6a66a7ea54a" />
+
+- RAG upload view
+<img width="695" height="576" alt="RAG upload" src="https://github.com/user-attachments/assets/166ad58f-bfb6-404d-8b5d-0332ba4ef3d9" />
+
+- RAG chat view
+<img width="968" height="596" alt="RAG chat" src="https://github.com/user-attachments/assets/23ad6968-3bee-4f77-b010-f9706b93fca5" />
+
+
 
 ## Architecture
 
