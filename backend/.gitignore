@@ -14,5 +14,4 @@ build/
 chroma_db/
 uploads/
 *.pdf
-*.txt
 .DS_Store
